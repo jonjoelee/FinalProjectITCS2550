@@ -1,0 +1,102 @@
+[
+  {
+    "Author": "John Doe",
+    "Title": "The Art of Programming",
+    "CheckedOut": false
+  },
+  {
+    "Author": "John Doe",
+    "Title": "The Art of Programming VOL2",
+    "CheckedOut": false
+  },
+  {
+    "Author": "Jane Smith",
+    "Title": "Data Science Essentials",
+    "CheckedOut": false
+  },
+  {
+    "Author": "Alice Johnson",
+    "Title": "Machine Learning for Beginners",
+    "CheckedOut": false
+  },
+  {
+    "Author": "Bob Williams",
+    "Title": "Deep Learning Fundamentals",
+    "CheckedOut": false
+  },
+  {
+    "Author": "Emily Brown",
+    "Title": "Python Programming",
+    "CheckedOut": false
+  },
+  {
+    "Author": "Michael Davis",
+    "Title": "Java Basics",
+    "CheckedOut": false
+  },
+  {
+    "Author": "Sarah Clark",
+    "Title": "Web Development Crash Course",
+    "CheckedOut": false
+  },
+  {
+    "Author": "David Taylor",
+    "Title": "C++ Essentials",
+    "CheckedOut": false
+  },
+  {
+    "Author": "Emma Wilson",
+    "Title": "Introduction to Algorithms",
+    "CheckedOut": false
+  },
+  {
+    "Author": "William Martinez",
+    "Title": "Blockchain Technology Explained",
+    "CheckedOut": false
+  },
+  {
+    "Author": "Olivia Moore",
+    "Title": "Cybersecurity Fundamentals",
+    "CheckedOut": false
+  },
+  {
+    "Author": "James Lee",
+    "Title": "Artificial Intelligence Basics",
+    "CheckedOut": false
+  },
+  {
+    "Author": "Sophia Taylor",
+    "Title": "Quantum Computing Primer",
+    "CheckedOut": false
+  },
+  {
+    "Author": "Daniel Anderson",
+    "Title": "R Programming for Data Analysis",
+    "CheckedOut": false
+  },
+  {
+    "Author": "Ava White",
+    "Title": "iOS App Development Guide",
+    "CheckedOut": false
+  },
+  {
+    "Author": "Ethan Martin",
+    "Title": "Android Development Cookbook",
+    "CheckedOut": false
+  },
+  {
+    "Author": "Isabella Wilson",
+    "Title": "UX Design Principles",
+    "CheckedOut": false
+  },
+  {
+    "Author": "Liam Johnson",
+    "Title": "Game Development Basics",
+    "CheckedOut": false
+  },
+  {
+    "Author": "Mia Thompson",
+    "Title": "Graphic Design Fundamentals",
+    "CheckedOut": false
+  }
+]
